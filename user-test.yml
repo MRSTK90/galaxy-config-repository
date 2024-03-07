@@ -1,5 +1,3 @@
-spring:
-  datasource:
-    uri: user-test-uri
-    username: user-id
-    password: user-password
+galaxy:
+  use: true
+  key: value
